@@ -22,7 +22,7 @@ Meal Finder is a web application that allows users to search for meal recipes by
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/meal-finder.git
+    git clone https://github.com/areebaqamar021/meal-finder.git
     ```
 
 2. Navigate to the project directory:
